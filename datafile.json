@@ -1,11 +1,5 @@
 [
     {
-    "source": "script",
-    "version": "0.0",
-    "meta": {
-       "id": "appngB1YzfSFhNviY",
-       "name": "Preflight Check",
-       "activeCollaborators": [],
        "tables": [
           {
              "id": "tblMAeMOXVHYHJ1eO",
